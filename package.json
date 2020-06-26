@@ -1,13 +1,17 @@
 {
   "name": "random-anonymous-animals",
   "version": "1.0.0",
-  "description": "generate random anonymous animal names",
+  "description": "Generate random anonymous animal names",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxieyang/random-anonymous-animals"
+  },
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "lxieyang",
+  "license": "MIT",
   "dependencies": {
     "capital-case": "^1.0.3",
     "seedrandom": "^3.0.5"
