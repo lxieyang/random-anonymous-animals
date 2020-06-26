@@ -2,6 +2,10 @@
 
 Generate random anonymous animal names.
 
+[![npm](https://img.shields.io/npm/v/random-anonymous-animals)](https://www.npmjs.com/package/random-anonymous-animals)
+[![npm-download](https://img.shields.io/npm/dw/random-anonymous-animals)](https://www.npmjs.com/package/random-anonymous-animals)
+[![npm](https://img.shields.io/npm/dm/random-anonymous-animals)](https://www.npmjs.com/package/random-anonymous-animals)
+
 ## Install
 
 ```bash
